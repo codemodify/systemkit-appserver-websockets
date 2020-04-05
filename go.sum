@@ -1,7 +1,11 @@
 github.com/codemodify/systemkit-appserver v1.7.8 h1:IlBtuKVPWEWx9qiIGu1TTBr/bDxr/HUDIE7g32eHymI=
 github.com/codemodify/systemkit-appserver v1.7.8/go.mod h1:VJBVIgxMncYBJYSC9GAK5heqEPxA/vFQRT4yeAND87k=
+github.com/codemodify/systemkit-appserver v1.7.9 h1:yrOyGbrfP3otwJqR800QngXnGxrNnLwoALVvTi4FYmk=
+github.com/codemodify/systemkit-appserver v1.7.9/go.mod h1:VJBVIgxMncYBJYSC9GAK5heqEPxA/vFQRT4yeAND87k=
 github.com/codemodify/systemkit-appserver-http v0.0.0-20200405082336-855e3625f712 h1:tM7xWAkc1bOHjMWaOXdBE80agBKXY90IcYaswPwyMok=
 github.com/codemodify/systemkit-appserver-http v0.0.0-20200405082336-855e3625f712/go.mod h1:niwj7DHxNr8aKK0UVu38T3LBnWCqK6n0b35Kjc2Ujss=
+github.com/codemodify/systemkit-appserver-http v1.7.9 h1:7nZFEeonT+u4FAzMbNEcyyXHxgJumrV6jWX0+ye+W6E=
+github.com/codemodify/systemkit-appserver-http v1.7.9/go.mod h1:5ktrZJNEqcHA+z+mmsjNhTBOZkD2v+eLR+uVFsuyRcs=
 github.com/codemodify/systemkit-helpers-channels v1.7.9 h1:35Jcy2k42jyNK+YN4YlpcAAu3Q66KVy3CWNCpniqG4c=
 github.com/codemodify/systemkit-helpers-channels v1.7.9/go.mod h1:8IcL2xCcLK+ZxnB+eo68nNzByBktWAUR+R8cBe8tuyc=
 github.com/codemodify/systemkit-helpers-reflection v1.7.9 h1:vPsYvbOiEZHT+rpoXlRx14IvzsKEAkYy7Aw2QEjF/G0=
